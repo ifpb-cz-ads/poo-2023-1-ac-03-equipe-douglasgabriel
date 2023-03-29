@@ -8,7 +8,7 @@
 - d) ( V ) double d = 20;<br>
 - e) ( V ) char c = 25;<br>
 - f) ( F ) boolean epar = (4%2=0)<br>
-- g) ( V ) char nome = “Maria”;<br>
-- h) ( V ) String b = “1”<br>
+- g) ( F ) char nome = “Maria”;<br>
+- h) ( F ) String b = “1”<br>
 - i) ( F ) float x = 2.7;<br>
 - j) ( F ) int a = false;<br>
